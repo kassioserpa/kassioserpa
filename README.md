@@ -1,8 +1,9 @@
 <div align="center">
+  <img src="giphy.gif" width="600" alt="Dashboard Animation">
   
-  # KÁSSIO SERPA 🧑‍💻​
+  # KÁSSIO SERPA 🧑‍💻
   
-  ### Desenvolvedor Fullstack | Business Inteligence
+  ### Data Analyst | BI Engineer | Fullstack Developer
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
   [![Portfolio](https://img.shields.io/badge/Portfólio-Davincix-171515?style=for-the-badge&logo=github&logoColor=white)](https://link-do-seu-portfolio.com)
@@ -11,39 +12,43 @@
 
   ---
   
-  *Transformando dados complexos em decisões estratégicas e construindo soluções digitais de ponta a ponta.*
+  *Engenharia de dados para decisões inteligentes e desenvolvimento de soluções digitais de alto impacto.*
 </div>
 
 ## 💡 Sobre Mim
 
-Sou um profissional com perfil multidisciplinar, unindo a capacidade analítica e técnica do **Desenvolvimento Fullstack** e da **Análise de Dados** com uma sólida base em **Gestão Administrativa**. 
+Sou um profissional multidisciplinar focado em **Business Intelligence e Engenharia de Dados**, com uma forte veia de **Desenvolvedor Fullstack**. Minha trajetória une a precisão analítica com a capacidade técnica de construir as ferramentas que consomem esses dados.
 
-Meu diferencial é a visão de negócio: entendo a fundo processos de contratos e licitações (Lei 14.133/21), o que me permite criar soluções tecnológicas e painéis em Power BI que resolvem problemas reais e otimizam operações corporativas.
+Com uma base sólida em **Gestão Administrativa** e profundo conhecimento em contratos e licitações (**Lei 14.133/21**), meu diferencial é alinhar métricas técnicas a objetivos de negócio reais, otimizando operações através de Dashboards estratégicos e arquiteturas de dados eficientes.
 
-- 🔭 Atualmente desenvolvendo o **saas-concursos** e o **Projeto Hello World**.
-- 📈 Especialista em transformar dados brutos em insights acionáveis via **Power BI**.
-- 🤝 Buscando oportunidades onde eu possa unir desenvolvimento de software, análise de dados e gestão estratégica.
+- 📊 **BI & Data:** Especialista em transformar dados brutos em insights acionáveis via **Power BI** e processos de ETL.
+- 💻 **Fullstack Journey:** Desenvolvendo aplicações modernas (SaaS) que integram automação e visualização de dados.
+- 🚀 **Projetos Atuais:** Evoluindo o **saas-concursos** e o terminal de inteligência global **Projeto Hello World**.
 
 ---
 
 ## 🛠️ Stack Tecnológico & Habilidades
 
-### Análise de Dados & BI
+### Data Engineering & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Desenvolvimento Fullstack
+### Fullstack Development (Aspirante)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Gestão & Negócios
-`Gestão Administrativa` | `Gestão de Contratos` | `Licitações (Lei 14.133/21)` | `Visão Estratégica`
+`BI Engineering` | `Gestão de Contratos` | `Licitações (Lei 14.133/21)` | `Estratégia de Dados`
 
 ---
+
+<div align="center">
+  <em>"O que não é medido, não é gerenciado."</em>
+</div>
 
 ## 🚀 Projetos em Destaque
 
