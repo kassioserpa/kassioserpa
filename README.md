@@ -50,10 +50,6 @@ Com uma base sólida em **Gestão Administrativa** e profundo conhecimento em co
   <em>"O que não é medido, não é gerenciado."</em>
 </div>
 
-## 🚀 Projetos em Destaque
-
-### 📚 [saas-concursos](https://github.com/seu-usuario/saas-concursos)
-Plataforma SaaS educacional Fullstack focada na preparação para concursos públicos. Arquitetura robusta desenhada para otimizar os estudos com funcionalidades completas de front-end e back-end.
 
 ### 🌍 [Projeto Hello World](https://github.com/seu-usuario/projeto-hello-world)
 Um globo interativo 3D com foco em otimização de performance e visualização de dados espaciais. *Autoria: Kássio Serpa.*
