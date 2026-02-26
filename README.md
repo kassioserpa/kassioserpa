@@ -5,8 +5,8 @@
   
   ### BI Engineer | Data Analyst
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-  [![Portfolio](https://img.shields.io/badge/Portfólio-Davincix-171515?style=for-the-badge&logo=github&logoColor=white)](https://link-do-seu-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A1ssioserpa/)
+  [![Portfolio](https://img.shields.io/badge/Portfólio-Aceder-171515?style=for-the-badge&logo=github&logoColor=white)](https://kassioserpa.github.io/Davincix/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561995764452)
   [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kassioserpa21@icloud.com)
 
@@ -23,8 +23,8 @@ Com experiência sólida em **Gestão Administrativa** e legislação de licita�
 
 - 📊 **BI & Data:** Especialista em Power BI, processos de ETL e arquitetura de dados eficiente.
 - 🚀 **Projetos de Destaque:** - [G20 Preview States](https://kassioserpa.github.io/G20-Preview-states/): Visualização interativa de dados globais.
+    - [Portfólio Pessoal](https://kassioserpa.github.io/Davincix/): Onde apresento o meu ecossistema de projetos e competências.
     - **saas-concursos**: Plataforma fullstack para preparação de candidatos.
-    - **Projeto Hello World**: Interface 3D exploratória.
 - 💻 **Foco Técnico:** Evoluindo constantemente em tecnologias de frontend e backend para integrar soluções de dados de ponta a ponta.
 
 ---
