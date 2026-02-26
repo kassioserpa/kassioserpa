@@ -1,53 +1,69 @@
 <div align="center">
   <img src="giphy.gif" width="600" alt="Dashboard Animation">
   
-  # KÁSSIO SERPA 🧑‍💻
+  # KÁSSIO SERPA
   
-  ### BI Engineer | Data Analyst
+  ### Data Engineer | Business Intelligence Specialist | Fullstack Developer
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A1ssioserpa/)
-  [![Portfolio](https://img.shields.io/badge/Portfólio-Aceder-171515?style=for-the-badge&logo=github&logoColor=white)](https://kassioserpa.github.io/Davincix/)
+  [![Portfolio](https://img.shields.io/badge/Portfólio-GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kassioserpa/Portifolio)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561995764452)
   [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kassioserpa21@icloud.com)
 
   ---
   
-  *Engenharia de dados para decisões inteligentes e construção de interfaces que comunicam valor.*
+  *Arquiteto de soluções que converte dados brutos em vantagem competitiva e interfaces de alta performance.*
 </div>
 
-## 💡 Sobre Mim
+## 🚀 Perfil Profissional
 
-Sou um profissional focado em **Business Intelligence e Engenharia de Dados**, trilhando o caminho para me tornar um **Desenvolvedor Fullstack**. Minha atuação é pautada pela união entre a capacidade técnica de manipular grandes volumes de dados e a visão estratégica de negócio.
+Com uma trajetória sólida em **Gestão e Inteligência de Negócios**, atuo na intersecção entre a **Engenharia de Dados** e o **Desenvolvimento de Software**. Minha expertise não é apenas escrever código, mas desenhar ecossistemas digitais que resolvem dores latentes de grandes operações corporativas.
 
-Com experiência sólida em **Gestão Administrativa** e legislação de licitações (**Lei 14.133/21**), eu não apenas crio Dashboards; eu desenvolvo ferramentas que otimizam processos corporativos reais e facilitam a tomada de decisão baseada em evidências.
+Possuo profundo domínio da **Lei 14.133/21 (Licitações)**, o que me permite criar soluções de BI e SaaS que falam a língua do negócio, garantindo conformidade, eficiência e clareza na tomada de decisão estratégica.
 
-- 📊 **BI & Data:** Especialista em Power BI, processos de ETL e arquitetura de dados eficiente.
-- 🚀 **Projetos de Destaque:** - [G20 Preview States](https://kassioserpa.github.io/G20-Preview-states/): Visualização interativa de dados globais.
-    - [Portfólio Pessoal](https://kassioserpa.github.io/Davincix/): Onde apresento o meu ecossistema de projetos e competências.
-    - **saas-concursos**: Plataforma fullstack para preparação de candidatos.
-- 💻 **Foco Técnico:** Evoluindo constantemente em tecnologias de frontend e backend para integrar soluções de dados de ponta a ponta.
+- 🎯 **Foco:** Desenvolvimento de Dashboards de alta complexidade, arquitetura de dados escalável e aplicações Fullstack orientadas a dados.
+- 💼 **Diferencial:** Visão 360º — do back-end que processa o dado à interface que o usuário final utiliza para decidir.
 
 ---
 
-## 🛠️ Stack Tecnológico & Habilidades
+## 🏆 Projetos em Destaque
 
-### Data Engineering & BI
+| Projeto | Stack & Impacto |
+| :--- | :--- |
+| [**G20 Preview States**](https://kassioserpa.github.io/G20-Preview-states/) | **Data Viz & Frontend:** Visualização de dados geoespaciais complexos com interatividade em tempo real. |
+| [**SaaS Concursos**](https://github.com/kassioserpa/saas-concursos) | **Fullstack Product:** Plataforma robusta de preparação educacional com foco em UX e retenção. |
+| [**Portfólio Central**](https://github.com/kassioserpa/Portifolio) | **Hub de Projetos:** Repositório central das soluções e arquiteturas desenvolvidas. |
+
+---
+
+## 🛠️ Arsenal Tecnológico
+
+### 📊 Data Intelligence & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel Advanced](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Fullstack Development (Learning Path)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Fullstack & Modern Web
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Gestão & Negócios
-`BI Engineering` | `Gestão de Contratos` | `Licitações (Lei 14.133/21)` | `Visão Estratégica`
+### 🏗️ DevOps, Cloud & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 <div align="center">
-  <em>"Transformando a complexidade dos dados em simplicidade estratégica."</em>
+  <h3>"A tecnologia é a ferramenta; a estratégia é o motor."</h3>
+  <p>Vamos construir algo extraordinário?</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A1ssioserpa/)
 </div>
