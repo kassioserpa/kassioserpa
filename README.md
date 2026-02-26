@@ -3,7 +3,7 @@
   
   # KÁSSIO SERPA
   
-  ### Data Engineer | Business Intelligence Specialist | Fullstack Developer
+  ### Data Analyst | BI Engineer
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A1ssioserpa/)
   [![Portfolio](https://img.shields.io/badge/Portfólio-GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kassioserpa/Portifolio)
@@ -17,12 +17,12 @@
 
 ## 🚀 Perfil Profissional
 
-Com uma trajetória sólida em **Gestão e Inteligência de Negócios**, atuo na intersecção entre a **Engenharia de Dados** e o **Desenvolvimento de Software**. Minha expertise não é apenas escrever código, mas desenhar ecossistemas digitais que resolvem dores latentes de grandes operações corporativas.
+Com uma trajetória sólida em **Gestão e Inteligência de Negócios**, atuo na intersecção entre a **Engenharia de Dados** e a **Análise Estratégica**. Minha expertise não é apenas processar informações, mas desenhar ecossistemas digitais que resolvem dores latentes de grandes operações corporativas.
 
-Possuo profundo domínio da **Lei 14.133/21 (Licitações)**, o que me permite criar soluções de BI e SaaS que falam a língua do negócio, garantindo conformidade, eficiência e clareza na tomada de decisão estratégica.
+Possuo profundo domínio da **Lei 14.133/21 (Licitações)**, o que me permite criar soluções de BI que falam a língua do negócio, garantindo conformidade, eficiência e clareza na tomada de decisão estratégica em ambientes públicos e privados.
 
-- 🎯 **Foco:** Desenvolvimento de Dashboards de alta complexidade, arquitetura de dados escalável e aplicações Fullstack orientadas a dados.
-- 💼 **Diferencial:** Visão 360º — do back-end que processa o dado à interface que o usuário final utiliza para decidir.
+- 🎯 **Foco:** Desenvolvimento de Dashboards de alta complexidade, arquitetura de dados escalável e modelagem preditiva.
+- 💼 **Diferencial:** Visão 360º — da extração e tratamento rigoroso do dado (ETL) à interface final que o gestor utiliza para decidir.
 
 ---
 
@@ -30,9 +30,10 @@ Possuo profundo domínio da **Lei 14.133/21 (Licitações)**, o que me permite c
 
 | Projeto | Stack & Impacto |
 | :--- | :--- |
+| [**Dashboard Gestão de Contratos Públicos**](https://kassioserpa.github.io/Dashboard-Gestao-de-Contratos-Publicos/) | **Business Intelligence:** Solução estratégica focada na Lei 14.133/21 para monitoramento de prazos, conformidade e otimização de recursos governamentais. |
 | [**G20 Preview States**](https://kassioserpa.github.io/G20-Preview-states/) | **Data Viz & Frontend:** Visualização de dados geoespaciais complexos com interatividade em tempo real. |
-| [**SaaS Concursos**](https://github.com/kassioserpa/saas-concursos) | **Fullstack Product:** Plataforma robusta de preparação educacional com foco em UX e retenção. |
-| [**Portfólio Central**](https://github.com/kassioserpa/Portifolio) | **Hub de Projetos:** Repositório central das soluções e arquiteturas desenvolvidas. |
+| [**SaaS Concursos**](https://github.com/kassioserpa/saas-concursos) | **Plataforma Educacional:** Solução robusta de preparação para candidatos, unindo dados e experiência do usuário (UX). |
+| [**Portfólio Central**](https://github.com/kassioserpa/Portifolio) | **Hub de Projetos:** Repositório central das soluções e arquiteturas de dados desenvolvidas. |
 
 ---
 
@@ -45,14 +46,14 @@ Possuo profundo domínio da **Lei 14.133/21 (Licitações)**, o que me permite c
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel Advanced](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 💻 Fullstack & Modern Web
+### 💻 Desenvolvimento & Web
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🏗️ DevOps, Cloud & Tools
+### 🏗️ Arquitetura, Cloud & Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
