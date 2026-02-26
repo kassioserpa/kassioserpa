@@ -3,7 +3,7 @@
   
   # KÁSSIO SERPA 🧑‍💻
   
-  ### Data Analyst | BI Engineer 
+  ### BI Engineer | Data Analyst | Aspirante a Programador Fullstack
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
   [![Portfolio](https://img.shields.io/badge/Portfólio-Davincix-171515?style=for-the-badge&logo=github&logoColor=white)](https://link-do-seu-portfolio.com)
@@ -12,18 +12,20 @@
 
   ---
   
-  *Engenharia de dados para decisões inteligentes e desenvolvimento de soluções digitais de alto impacto.*
+  *Engenharia de dados para decisões inteligentes e construção de interfaces que comunicam valor.*
 </div>
 
 ## 💡 Sobre Mim
 
-Sou um profissional multidisciplinar focado em **Business Intelligence e Engenharia de Dados**, com uma forte veia de **Desenvolvedor Fullstack**. Minha trajetória une a precisão analítica com a capacidade técnica de construir as ferramentas que consomem esses dados.
+Sou um profissional focado em **Business Intelligence e Engenharia de Dados**, trilhando o caminho para me tornar um **Desenvolvedor Fullstack**. Minha atuação é pautada pela união entre a capacidade técnica de manipular grandes volumes de dados e a visão estratégica de negócio.
 
-Com uma base sólida em **Gestão Administrativa** e profundo conhecimento em contratos e licitações (**Lei 14.133/21**), meu diferencial é alinhar métricas técnicas a objetivos de negócio reais, otimizando operações através de Dashboards estratégicos e arquiteturas de dados eficientes.
+Com experiência sólida em **Gestão Administrativa** e legislação de licitações (**Lei 14.133/21**), eu não apenas crio Dashboards; eu desenvolvo ferramentas que otimizam processos corporativos reais e facilitam a tomada de decisão baseada em evidências.
 
-- 📊 **BI & Data:** Especialista em transformar dados brutos em insights acionáveis via **Power BI** e processos de ETL.
-- 💻 **Fullstack Journey:** Desenvolvendo aplicações modernas (SaaS) que integram automação e visualização de dados.
-- 🚀 **Projetos Atuais:** Evoluindo o **saas-concursos** e o terminal de inteligência global **Projeto Hello World**.
+- 📊 **BI & Data:** Especialista em Power BI, processos de ETL e arquitetura de dados eficiente.
+- 🚀 **Projetos de Destaque:** - [G20 Preview States](https://kassioserpa.github.io/G20-Preview-states/): Visualização interativa de dados globais.
+    - **saas-concursos**: Plataforma fullstack para preparação de candidatos.
+    - **Projeto Hello World**: Interface 3D exploratória.
+- 💻 **Foco Técnico:** Evoluindo constantemente em tecnologias de frontend e backend para integrar soluções de dados de ponta a ponta.
 
 ---
 
@@ -31,39 +33,21 @@ Com uma base sólida em **Gestão Administrativa** e profundo conhecimento em co
 
 ### Data Engineering & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Fullstack Development (Aspirante)
+### Fullstack Development (Learning Path)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Gestão & Negócios
-`BI Engineering` | `Gestão de Contratos` | `Licitações (Lei 14.133/21)` | `Estratégia de Dados`
+`BI Engineering` | `Gestão de Contratos` | `Licitações (Lei 14.133/21)` | `Visão Estratégica`
 
 ---
 
 <div align="center">
-  <em>"O que não é medido, não é gerenciado."</em>
+  <em>"Transformando a complexidade dos dados em simplicidade estratégica."</em>
 </div>
-
-
-### 🌍 [Projeto Hello World](https://github.com/seu-usuario/projeto-hello-world)
-Um globo interativo 3D com foco em otimização de performance e visualização de dados espaciais. *Autoria: Kássio Serpa.*
-
-### 🎨 [Davincix](https://github.com/seu-usuario/davincix)
-Meu site de portfólio pessoal, construído para demonstrar de forma interativa minha capacidade de desenvolvimento web e centralizar meus projetos e dashboards.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-> **Nota para recrutadores:** O gráfico acima reflete meu código. Meu pensamento analítico e habilidades de gestão podem ser melhor explorados em uma conversa!
