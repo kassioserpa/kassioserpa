@@ -28,12 +28,12 @@ Possuo profundo domínio da **Lei 14.133/21 (Licitações)**, o que me permite c
 
 ## 🏆 Projetos em Destaque
 
-| Projeto | Stack & Impacto |
-| :--- | :--- |
-| [**Dashboard Gestão de Contratos Públicos**](https://kassioserpa.github.io/Dashboard-Gestao-de-Contratos-Publicos/) | **Business Intelligence:** Solução estratégica focada na Lei 14.133/21 para monitoramento de prazos, conformidade e otimização de recursos governamentais. |
-| [**G20 Preview States**](https://kassioserpa.github.io/G20-Preview-states/) | **Data Viz & Frontend:** Visualização de dados geoespaciais complexos com interatividade em tempo real. |
-| [**SaaS Concursos**](https://github.com/kassioserpa/saas-concursos) | **Plataforma Educacional:** Solução robusta de preparação para candidatos, unindo dados e experiência do usuário (UX). |
-| [**Portfólio Central**](https://github.com/kassioserpa/Portifolio) | **Hub de Projetos:** Repositório central das soluções e arquiteturas de dados desenvolvidas. |
+| 📁 Nome do Projeto | 🚨 Problema | 💡 Solução | 🛠️ Stacks Usadas |
+| :--- | :--- | :--- | :--- |
+| [**Dashboard Gestão de Contratos Públicos**](https://kassioserpa.github.io/Dashboard-Gestao-de-Contratos-Publicos/) | Falta de controle, conformidade e visibilidade de prazos e aditivos sob a Lei 14.133/21. | Painel gerencial automatizado que monitora vigências, emite alertas e centraliza KPIs governamentais. | `Power BI`, `SQL`, `Excel` |
+| [**G20 Preview States**](https://kassioserpa.github.io/G20-Preview-states/) | Complexidade em analisar indicadores macroeconômicos e dados globais de forma rápida e visual. | Interface interativa de dados geoespaciais para exploração fluida de métricas em tempo real. | `JavaScript`, `React`, `DataViz` |
+| [**SaaS Concursos**](https://github.com/kassioserpa/saas-concursos) | Preparação ineficiente e falta de rastreamento de métricas de desempenho por parte dos candidatos. | Plataforma educacional robusta focada em UX, entregando trilhas de estudo e análise de dados do aluno. | `Node.js`, `TypeScript`, `React` |
+| [**Portfólio Central**](https://github.com/kassioserpa/Portifolio) | Fragmentação de projetos e dificuldade em demonstrar a união entre análise de dados e engenharia web. | Hub centralizado de alta performance documentando arquiteturas de dados, dashboards e aplicações. | `Git`, `Next.js`, `Tailwind` |
 
 ---
 
